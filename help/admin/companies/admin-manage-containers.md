@@ -1,16 +1,16 @@
 ---
-description: 컨테이너의 데이터 공급자를 보거나 편집합니다.
-seo-description: 컨테이너의 데이터 공급자를 보거나 편집합니다.
+description: View or edit data providers for containers.
+seo-description: View or edit data providers for containers.
 seo-title: 컨테이너 관리
-title: 컨테이너 관리
+title: Manage Containers
 uuid: 7dfcac5e-5502-4701-97f4-ae8015c3f0a6
 translation-type: tm+mt
-source-git-commit: be661580da839ce6332a0ad827dec08e854abe54
+source-git-commit: 63d12d92ad7196ac880d249435a7fe312c82280d
 
 ---
 
 
-# 컨테이너 관리 {#manage-containers}
+# Manage Containers {#manage-containers}
 
 컨테이너의 데이터 공급자를 보거나 편집합니다.
 
@@ -18,7 +18,7 @@ source-git-commit: be661580da839ce6332a0ad827dec08e854abe54
 
 >[!NOTE]
 >
->기본적으로 회사는 하나의 컨테이너로 만들어집니다. 의 사용자 인터페이스에서 회사에 대한 추가 컨테이너를 만들 수 **[!UICONTROL Manage Data > Tags]**&#x200B;있습니다.
+>기본적으로 회사는 하나의 컨테이너로 만들어집니다. 의 사용자 인터페이스에서 회사에 대한 추가 컨테이너를 만들 수 **[!UICONTROL Tools > Tags]**&#x200B;있습니다.
 
 1. 을 **[!UICONTROL Companies]**&#x200B;클릭한 다음 원하는 회사를 찾아 클릭하여 해당 [!UICONTROL Profile] 페이지를 표시합니다.
 
@@ -40,4 +40,5 @@ source-git-commit: be661580da839ce6332a0ad827dec08e854abe54
 
 >[!MORELIKE_THIS]
 >
->* [Media Optimizer와 ID 동기화](../companies/admin-amo-sync.md#concept_2B5537233DAA4860B35
+>* [Media Optimizer와 ID 동기화](../companies/admin-amo-sync.md#concept_2B5537233DAA4860B3503B344F937D83)
+
