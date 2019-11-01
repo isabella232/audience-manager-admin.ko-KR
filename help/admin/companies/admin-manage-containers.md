@@ -1,16 +1,16 @@
 ---
-description: View or edit data providers for containers.
-seo-description: View or edit data providers for containers.
+description: 컨테이너의 데이터 공급자를 보거나 편집합니다.
+seo-description: 컨테이너의 데이터 공급자를 보거나 편집합니다.
 seo-title: 컨테이너 관리
-title: Manage Containers
+title: 컨테이너 관리
 uuid: 7dfcac5e-5502-4701-97f4-ae8015c3f0a6
 translation-type: tm+mt
-source-git-commit: 63d12d92ad7196ac880d249435a7fe312c82280d
+source-git-commit: 2998dc049971b2fac8c45ca6e3118ea607ae3f92
 
 ---
 
 
-# Manage Containers {#manage-containers}
+# 컨테이너 관리 {#manage-containers}
 
 컨테이너의 데이터 공급자를 보거나 편집합니다.
 
@@ -38,7 +38,7 @@ source-git-commit: 63d12d92ad7196ac880d249435a7fe312c82280d
 
 1. 변경한 **[!UICONTROL Save]** 경우 을 클릭합니다.
 
->[!MORELIKE_THIS]
+>[!MORELIKETHIS]
 >
 >* [Media Optimizer와 ID 동기화](../companies/admin-amo-sync.md#concept_2B5537233DAA4860B3503B344F937D83)
 
