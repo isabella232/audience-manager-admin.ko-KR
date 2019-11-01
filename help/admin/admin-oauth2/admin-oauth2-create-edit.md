@@ -5,7 +5,7 @@ seo-title: OAuth2 클라이언트
 title: OAuth2 클라이언트
 uuid: 3e654053-fb2f-4d8f-a53c-b5c3b8dbdaaa
 translation-type: tm+mt
-source-git-commit: be661580da839ce6332a0ad827dec08e854abe54
+source-git-commit: 2998dc049971b2fac8c45ca6e3118ea607ae3f92
 
 ---
 
@@ -60,7 +60,7 @@ Audience Manager 도구의 [!UICONTROL OAuth2 Clients] 페이지를 [!UICONTROL 
 
 클라이언트를 삭제하려면 아이콘을 [!UICONTROL OAuth2] 클릭한 **[!UICONTROL OAuth2 Clients]**&#x200B;다음 원하는 클라이언트의 ![](assets/icon_delete.png) **[!UICONTROL Actions]** 열을 클릭합니다.
 
->[!MORELIKE_THIS]
+>[!MORELIKETHIS]
 >
 >* [API 요구 사항 및 권장 사항](../admin-oauth2/aam-admin-api-requirements.md)
 
