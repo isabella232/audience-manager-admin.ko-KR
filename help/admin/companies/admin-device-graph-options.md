@@ -5,7 +5,7 @@ seo-title: 기업을 위한 장치 그래프 옵션
 title: 기업을 위한 장치 그래프 옵션
 uuid: a8ced843-710c-4a8f-a0d7-ea89d010a7a5
 translation-type: tm+mt
-source-git-commit: 10adb6b06160f5a5c4068483b407e5798fc10150
+source-git-commit: 2998dc049971b2fac8c45ca6e3118ea607ae3f92
 
 ---
 
@@ -46,7 +46,7 @@ Adobe Experience Cloud [Device Co-op에](https://marketing.adobe.com/resources/h
 
 ![](assets/adminUI2.png)
 
->[!MORELIKE_THIS]
+>[!MORELIKETHIS]
 >
 >* [프로필 병합 규칙 옵션 정의](https://marketing.adobe.com/resources/help/en_US/aam/merge-rule-definitions.html)
 >* [데이터 소스 설정 및 메뉴 옵션](https://marketing.adobe.com/resources/help/en_US/aam/datasource-settings-definitions.html)
