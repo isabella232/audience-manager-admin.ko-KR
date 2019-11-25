@@ -5,7 +5,7 @@ seo-title: 감사 로깅
 title: 감사 로깅
 uuid: null
 translation-type: tm+mt
-source-git-commit: 190ba5c1215782e46c8e544c10679d451fbed134
+source-git-commit: 6c09d99165c1294999f4a4d7ce763082e6d2cb8f
 
 ---
 
@@ -16,11 +16,13 @@ source-git-commit: 190ba5c1215782e46c8e544c10679d451fbed134
 
 > [!NOTE]
 >
->[!UICONTROL Audit Logging] 가 현재 개발 중이며 변경될 수 있습니다. 발생한 문제를 [!DNL JIRA] ([!DNL UI] 팀)에 기록하십시오.
+> 이 [!UICONTROL Audit Logging] 기능 및 문서는 현재 개발 중이며 변경될 수 있습니다. ( [!DNL JIRA][!DNL UI] 팀)에서 발생하는 문제를 모두 기록하십시오.
 
 ![감사 로깅 보기](assets/audit-logging-img.png)
 
-감사 **유형** 드롭다운 선택기에서 다음 중 하나를 선택합니다.
+<!-- 
+
+In the **Audit Type** drop-down selector, choose between:
 
 * [!UICONTROL Partner]
 * [!UICONTROL User]
@@ -39,25 +41,27 @@ source-git-commit: 190ba5c1215782e46c8e544c10679d451fbed134
 * [!UICONTROL Model]
 * [!UICONTROL Segment Test Group]
 
-개체 **ID는** 검색 중인 항목의 ID입니다. 각 케이스의 개체 ID에 해당하는 ID는 아래 표를 참조하십시오.
+The **Object ID** is the ID of the item you're researching. See the table below for which ID corresponds to the Object ID in each case:
 
-| 감사 유형 | 개체 ID |
+Audit Type | Object ID |
 ---------|----------|
-| [!UICONTROL Partner] | 파트너 ID - PID |
-| [!UICONTROL User] | 사용자 ID |
-| [!UICONTROL Group] | B3 |
-| [!UICONTROL Datasource Summary] | 데이터 소스 ID |
-| [!UICONTROL General Datasource] | 데이터 소스 ID |
-| [!UICONTROL Merge Rule Datasource] | 데이터 소스 ID |
-| [!UICONTROL Data Feed] | 데이터 피드 ID |
-| [!UICONTROL Data Feed Subscription] | 데이터 피드 ID |
-| [!UICONTROL Trait Summary] | SID(트레이트) |
-| [!UICONTROL Trait Rule] | SID(트레이트) |
-| [!UICONTROL Segment Summary] |  |
-| [!UICONTROL Destination Summary] |  |
-| [!UICONTROL Server-to-Server Destination] | N/A |
-| [!UICONTROL Derived Signal] | N/A |
-| [!UICONTROL Model] | N/A |
-| [!UICONTROL Segment Test Group] | N/A |
+ [!UICONTROL Partner] | Partner ID - PID |
+ [!UICONTROL User] | User ID |
+ [!UICONTROL Group] | B3 |
+ [!UICONTROL Datasource Summary] | Data Source ID |
+ [!UICONTROL General Datasource] | Data Source ID |
+ [!UICONTROL Merge Rule Datasource] | Data Source ID |
+ [!UICONTROL Data Feed] | Data Feed ID |
+ [!UICONTROL Data Feed Subscription] | Data Feed ID |
+ [!UICONTROL Trait Summary] | SID (trait) |
+ [!UICONTROL Trait Rule] | SID (trait) |
+ [!UICONTROL Segment Summary] |  |
+ [!UICONTROL Destination Summary] |  |
+ [!UICONTROL Server-to-Server Destination]| N/A |
+ [!UICONTROL Derived Signal] | N/A |
+ [!UICONTROL Model] | N/A |
+ [!UICONTROL Segment Test Group] | N/A |
 
-( [!UICONTROL Start Date] )[!DNL UTC]및 [!UICONTROL End Date] ([!DNL UTC])를 사용하여 로그의 시간 간격을 좁힙니다.
+ Use [!UICONTROL Start Date] ([!DNL UTC]) and [!UICONTROL End Date] ([!DNL UTC]) to narrow down the time interval of the logs.
+
+ -->
