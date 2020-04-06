@@ -5,7 +5,7 @@ seo-title: 감사 로깅
 title: 감사 로깅
 uuid: null
 translation-type: tm+mt
-source-git-commit: 6c09d99165c1294999f4a4d7ce763082e6d2cb8f
+source-git-commit: 53bf192d17e107f5f696712e578921abaa52b9ab
 
 ---
 
@@ -14,9 +14,9 @@ source-git-commit: 6c09d99165c1294999f4a4d7ce763082e6d2cb8f
 
 고객 문제를 [!UICONTROL  Audit Logging] 디버깅할 때 가장 먼저 사용할 수 있습니다.
 
-> [!NOTE]
+>[!NOTE]
 >
-> 이 [!UICONTROL Audit Logging] 기능 및 문서는 현재 개발 중이며 변경될 수 있습니다. ( [!DNL JIRA][!DNL UI] 팀)에서 발생하는 문제를 모두 기록하십시오.
+>이 [!UICONTROL Audit Logging] 기능 및 문서는 현재 개발 중이며 변경될 수 있습니다. ( [!DNL JIRA][!DNL UI] 팀)에서 발생하는 문제를 모두 기록하십시오.
 
 ![감사 로깅 보기](assets/audit-logging-img.png)
 
