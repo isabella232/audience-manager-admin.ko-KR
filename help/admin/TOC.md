@@ -2,11 +2,11 @@
 product: audience-manager
 audience: admin
 user-guide-title: Audience Manager 관리 가이드
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 5510710a65beb47cc6e8ee48a64a4efe91e4b904
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '154'
-ht-degree: 6%
+ht-degree: 100%
 
 ---
 
@@ -37,12 +37,12 @@ ht-degree: 6%
    + [서버 삭제](admin-servers/admin-delete-server.md)
 + 보고{#reporting}
    + [보고](admin-reporting/admin-reporting-overview.md)
-   + [타블로 사용자에게 포털 사용자 할당](admin-reporting/admin-assign-tableau-user.md)
+   + [Tableau 사용자에게 포털 사용자 할당](admin-reporting/admin-assign-tableau-user.md)
 + 형식{#formats}
    + [포맷 개요](formats/formats.md)
    + [아웃바운드에 대해 Hadoop 시퀀스 파일 전송 활성화](formats/enable-outbound-seq.md)
    + [파일 형식 매크로](formats/file-formats.md)
-   + [파일 형식 매크로 예](formats/file-format-examples.md)
+   + [파일 형식 매크로 예제](formats/file-format-examples.md)
    + [HTTP 형식 매크로](formats/web-formats.md)
    + [HTTP 형식 매크로 예제](formats/web-format-examples.md)
    + [형식 만들기 또는 편집](formats/admin-create-format.md)
