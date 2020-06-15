@@ -5,9 +5,9 @@ seo-title: FTP 서버 만들기 또는 편집
 title: FTP 서버 만들기 또는 편집
 uuid: 9273abb2-963d-4d83-bf5a-b3817f0b90e6
 translation-type: tm+mt
-source-git-commit: e0dc190f8765ec91431a2c02a62c6bf5458c7e3d
+source-git-commit: 78d694670e7abdc18938c5be729ad499e2647825
 workflow-type: tm+mt
-source-wordcount: '404'
+source-wordcount: '423'
 ht-degree: 5%
 
 ---
@@ -44,6 +44,9 @@ Audience Manager 관리 도구의 [!UICONTROL Servers] 페이지를 사용하여
    >허용된 IP 목록 [!DNL FTP] 에 Adobe 주소 [!DNL IP] 를 추가해야 합니다. **52.44.29.204**.
 
 1. 인증 **[!UICONTROL SSH Key]** :
+   >[!NOTE]
+   >
+   >SSH 키 인증을 구성할 때는 항상 공개 및 개인 키를 OpenSSH 형식으로만 생성해야 합니다.
    1. 모든 [!DNL Linux] 또는 컴퓨터에서 공개/개인 키 쌍을 [!DNL Mac] 생성합니다.
    1. 클라이언트에 **공개 키를** 지정하여 [!DNL SFTP] 서버에서 업데이트합니다. 서버에 있는 공개 키의 모든 텍스트(및 를 포함)를 포함해야 `-----BEGIN RSA PRIVATE KEY-----` 합니다 `-----END RSA PRIVATE KEY-----` . 대신 키를 설치하는 사용자 이름을 제공해야 합니다.
    1. 클라이언트에서 제공한 사용자 이름 필드와 **개인 키로 키 필드를 업데이트합니다**.
