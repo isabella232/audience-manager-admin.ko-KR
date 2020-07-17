@@ -6,6 +6,9 @@ title: 서버 개요
 uuid: 49488bd7-1bea-4863-ba98-73087a2bb6b2
 translation-type: tm+mt
 source-git-commit: be661580da839ce6332a0ad827dec08e854abe54
+workflow-type: tm+mt
+source-wordcount: '144'
+ht-degree: 4%
 
 ---
 
@@ -18,4 +21,4 @@ Audience Manager 구성의 서버 목록을 보려면 [!UICONTROL Servers] 페�
 
 ![](assets/servers.png)
 
-원하는 열의 머리글을 클릭하여 각 열을 오름차순이나 내림차순으로 정렬할 수 있습니다. 목록 아래쪽에 있는 [!UICONTROL Search] 상자 또는 페이지 매김 컨트롤을 사용하여 원하는 서버를 찾습니다.
+원하는 열의 헤더를 클릭하여 각 열을 오름차순이나 내림차순으로 정렬할 수 있습니다. 목록 맨 아래의 [!UICONTROL Search] 상자나 페이지 매김 컨트롤을 사용하여 원하는 서버를 찾습니다.
