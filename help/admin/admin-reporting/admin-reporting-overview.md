@@ -6,6 +6,9 @@ title: 보고
 uuid: d857044b-926d-4862-b8bc-799cb3ecca56
 translation-type: tm+mt
 source-git-commit: be661580da839ce6332a0ad827dec08e854abe54
+workflow-type: tm+mt
+source-wordcount: '114'
+ht-degree: 2%
 
 ---
 
@@ -18,6 +21,6 @@ source-git-commit: be661580da839ce6332a0ad827dec08e854abe54
 
 ![](assets/reporting.png)
 
-원하는 열의 머리글을 클릭하여 각 열을 오름차순이나 내림차순으로 정렬할 수 있습니다.
+원하는 열의 헤더를 클릭하여 각 열을 오름차순이나 내림차순으로 정렬할 수 있습니다.
 
 목록 맨 아래의 [!UICONTROL Search] 상자나 페이지 매김 컨트롤을 사용하여 원하는 보고서를 찾습니다.
