@@ -5,7 +5,7 @@ seo-title: 파일 형식 매크로
 title: 파일 형식 매크로
 uuid: f91c91b6-6581-4ed7-8d7f-f8532bd41df9
 translation-type: tm+mt
-source-git-commit: e1122a7f3d3e8c2d67616eb56cb186a4750ed29b
+source-git-commit: 0ee7aa9c13f1b9b8fd64dddff4e52d101055e77c
 workflow-type: tm+mt
 source-wordcount: '717'
 ht-degree: 2%
@@ -53,8 +53,8 @@ ht-degree: 2%
    <td colname="col1"> <p> <code>SYNC_MODE</code> </p> </td> 
    <td colname="col2"> <p>동기화 유형을 나타냅니다. 다음 선택적 변수를 수락합니다. </p> 
     <ul id="ul_87E8E3CE6565447A9810B5119298CC7B"> 
-     <li id="li_66F4889FB84E40AC92F69F3FF6B0042C"> <code>full</code>: 전체 동기화 </li> 
-     <li id="li_BFE2C2D9A33A44FB9A840A7232ECCFFF"> <code>iter</code>: 증분 동기화. </li> 
+     <li id="li_66F4889FB84E40AC92F69F3FF6B0042C"> <code>full</code>:전체 동기화 </li> 
+     <li id="li_BFE2C2D9A33A44FB9A840A7232ECCFFF"> <code>iter</code>:증분 동기화. </li> 
     </ul> </td> 
   </tr> 
   <tr> 
@@ -106,7 +106,7 @@ ht-degree: 2%
  <tbody> 
   <tr> 
    <td colname="col1"> <p> <code>CLOSE_CURLY_BRACKET</code> </p> </td> 
-   <td colname="col2"> <p>닫힌 중괄호 } 문자를 삽입합니다. </p> </td> 
+   <td colname="col2"> <p>닫힌 중괄호 <code>}</code> 문자를 삽입합니다. </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p> <code>COMMA</code> </p> </td> 
@@ -138,7 +138,7 @@ ht-degree: 2%
   </tr> 
   <tr> 
    <td colname="col1"> <p> <code>OPEN_CURLY_BRACKET</code> </p> </td> 
-   <td colname="col2"> <p>여는 중괄호 { 문자를 삽입합니다. </p> </td> 
+   <td colname="col2"> <p>열려 있는 중괄호 <code>{</code> 문자를 삽입합니다. </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p> <code>OPT_OUT</code> </p> </td> 
@@ -164,12 +164,12 @@ ht-degree: 2%
    <td colname="col1"> <p> <code>SEGMENT_LIST</code> </p> </td> 
    <td colname="col2"> <p>목록의 세그먼트 목록을 반환합니다. 다음 선택적 변수를 수락합니다. </p> 
     <ul id="ul_B111AA0D6C18445598A1444B8B7E9325"> 
-     <li id="li_8603B40229624856AF1FBC434DB8F16A"> <code>segmentId</code>: 기존 ID. 삭제 예정. 사용 <code>sid</code> (소문자 전용). </li> 
-     <li id="li_1EF40DDCA3C5447586904CF021D8F912"> <code>csegid</code>: 기존 ID. 삭제 예정. 사용 <code>sid</code> (소문자 전용). </li> 
-     <li id="li_D85F0A5D16AE4DAFB55C17DBB35EA66E"> <code>sid</code>: 세그먼트 ID. </li> 
-     <li id="li_9BE103EFD8384464B46FAC00422431DB"> <code>type</code>: 데이터를 세그먼트 데이터 <code>5</code>로 식별하는 정적 하드 코딩된 값을 반환합니다. </li> 
-     <li id="li_FE5049089F2944FA9DB9F9D546DBA167"> <code>alias</code>: 세그먼트 매핑을 참조하십시오. 삭제 예정. 사용 <code>sid</code> (소문자 전용). </li> 
-     <li id="li_DD778AA2D1DB4D409CF5026B5D9DBD27"> <code>lastUpdateTime</code>: 세그먼트가 마지막으로 실현된 시간을 나타내는 Unix 타임스탬프 </li> 
+     <li id="li_8603B40229624856AF1FBC434DB8F16A"> <code>segmentId</code>:기존 ID. 삭제 예정. 사용 <code>sid</code> (소문자 전용). </li> 
+     <li id="li_1EF40DDCA3C5447586904CF021D8F912"> <code>csegid</code>:기존 ID. 삭제 예정. 사용 <code>sid</code> (소문자 전용). </li> 
+     <li id="li_D85F0A5D16AE4DAFB55C17DBB35EA66E"> <code>sid</code>:세그먼트 ID. </li> 
+     <li id="li_9BE103EFD8384464B46FAC00422431DB"> <code>type</code>:데이터를 세그먼트 데이터 <code>5</code>로 식별하는 정적 하드 코딩된 값을 반환합니다. </li> 
+     <li id="li_FE5049089F2944FA9DB9F9D546DBA167"> <code>alias</code>:세그먼트 매핑을 참조하십시오. 삭제 예정. 사용 <code>sid</code> (소문자 전용). </li> 
+     <li id="li_DD778AA2D1DB4D409CF5026B5D9DBD27"> <code>lastUpdateTime</code>:세그먼트가 마지막으로 실현된 시간을 나타내는 Unix 타임스탬프 </li> 
     </ul> <p>이 변수를 매크로 뒤에 중괄호로 묶습니다. 예를 들어 이 코드는 파이프 "|" 문자로 결과를 구분합니다. <code>&lt;SEGMENT_LIST:{seg|&lt;seg.type&gt;,&lt;seg.sid&gt;}; separator="|"&gt;</code> </p> </td> 
   </tr> 
   <tr> 
@@ -184,13 +184,13 @@ ht-degree: 2%
    <td colname="col1"> <p> <code>TRAIT_LIST</code> </p> </td> 
    <td colname="col2"> <p>트레이트 목록을 반환합니다. 다음 선택적 인수를 수락합니다. </p> 
     <ul id="ul_757DEB56E4F849768468F3C166B0D171"> 
-     <li id="li_859E1F4F21D645519F150DC512B3EB1A"> <code>type</code>: 숫자 ID로 식별되는 트레이트 유형. 이 변수는 다음을 반환합니다. 
+     <li id="li_859E1F4F21D645519F150DC512B3EB1A"> <code>type</code>:숫자 ID로 식별되는 트레이트 유형. 이 변수는 다음을 반환합니다. 
       <ul id="ul_C9839266783D42CCADAAC3FEA33BE4D7"> 
        <li id="li_6996A218E3F04EC3BC70032559DD87FC"> <code>10</code> DPM 특성(오프라인, 인바운드 작업에 의해 온보드)을 식별합니다. </li> 
-       <li id="li_831FF929BF50434C8804C13E5786DF79"> <code>3</code> 규칙 기반 트레이트를 식별합니다(realtime,; DCS를 통해 <span class="wintitle"> 온보드 </span>). </li> 
+       <li id="li_831FF929BF50434C8804C13E5786DF79"> <code>3</code> 규칙 기반 트레이트를 식별합니다(realtime,;DCS를 통해 <span class="wintitle"> 온보드 </span>). </li> 
       </ul> </li> 
-     <li id="li_E84D6BC80AEE4F10963C9882C4151ED4"> <code>traitId</code>: 특성 ID. </li> 
-     <li id="li_D30A849BA35248E6B9110FA3ADEFC332"> <code>lastRealized</code>: 마지막으로 그 특징이 실현되었습니다. Unix 타임스탬프 </li> 
+     <li id="li_E84D6BC80AEE4F10963C9882C4151ED4"> <code>traitId</code>:특성 ID. </li> 
+     <li id="li_D30A849BA35248E6B9110FA3ADEFC332"> <code>lastRealized</code>:마지막으로 그 특징이 실현되었습니다. Unix 타임스탬프 </li> 
     </ul> <p>이 변수를 매크로 뒤에 중괄호로 묶습니다. 예를 들어 이 코드는 "|" 문자로 결과를 구분합니다. <code>TRAIT_LIST{type|traitId};separator="|"</code> </p> </td> 
   </tr> 
   <tr> 
