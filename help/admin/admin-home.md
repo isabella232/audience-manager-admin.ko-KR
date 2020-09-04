@@ -5,9 +5,9 @@ seo-title: Audience Manager 관리자 홈
 title: Audience Manager 관리자 홈
 uuid: 4534b622-4c8d-4c42-8019-1614faaba9d6
 translation-type: tm+mt
-source-git-commit: 190ba5c1215782e46c8e544c10679d451fbed134
+source-git-commit: 04497025c7712f486737034550f64939541d3218
 workflow-type: tm+mt
-source-wordcount: '221'
+source-wordcount: '219'
 ht-degree: 100%
 
 ---
@@ -20,10 +20,7 @@ Audience Manager 관리 도구를 사용하여 회사, 서버, 보고서, 형식
 <table id="table_882B0982144442F79328A4FA45BD5C7E" frame="none"> 
  <tbody> 
   <tr> 
-   <td colname="col1" colsep="0" rowsep="0" valign="top"> <p class="head"> <b>새 항목 또는 중요 항목</b> </p> <p> 
-     <draft-comment otherprops="merge">
-       c_home.xml 
-     </draft-comment>제목 위로 마우스를 가져가면 간단한 설명을 볼 수 있습니다. </p> <p> 
+   <td colname="col1" colsep="0" rowsep="0" valign="top"> <p class="head"> <b>새 항목 또는 중요 항목</b> </p> <p>제목 위로 마우스를 가져가면 간단한 설명을 볼 수 있습니다. </p> <p> 
      <ul id="ul_A0416FDB65EB4774821C05664E14AB86"> 
       <li id="li_C528ED722C7241C8A0F492B250322EA7"><a href="admin-servers/admin-authorize-s3-cross-bucket.md#task_20B12994C5484A9D8CC40DF6F456CBE7"> 방법: 배치 대상에 대한 교차 계정 Amazon S3 버킷 액세스 권한 인증</a> </li> 
       <li id="li_582FD48ADC894E00AE5961E2E80A3A92"><a href="admin-destination-troubleshooting.md#set-up-destinations-export"> Experience Cloud 내보내기 대상을 설정하는 방법...</a> </li> 
