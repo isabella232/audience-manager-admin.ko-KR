@@ -19,9 +19,9 @@ ht-degree: 10%
 
 <!-- t_first_party_providers.xml -->
 
-1. 을 **[!UICONTROL Companies]**&#x200B;클릭하고 원하는 회사를 찾아 클릭하여 해당 [!UICONTROL Profile] 페이지를 표시합니다. 목록 맨 아래의 [!UICONTROL Search] 상자나 페이지 매김 컨트롤을 사용하여 원하는 회사를 찾습니다. 원하는 열의 헤더를 클릭하여 각 열을 오름차순이나 내림차순으로 정렬할 수 있습니다.
+1. **[!UICONTROL Companies]**&#x200B;을 클릭한 다음 원하는 회사를 찾아 클릭하여 [!UICONTROL Profile] 페이지를 표시합니다. 목록 맨 아래의 [!UICONTROL Search] 상자나 페이지 매김 컨트롤을 사용하여 원하는 회사를 찾습니다. 원하는 열의 헤더를 클릭하여 각 열을 오름차순이나 내림차순으로 정렬할 수 있습니다.
 
-1. Click the **[!UICONTROL First Party Data Providers]** tab.
+1. **[!UICONTROL First Party Data Providers]** 탭을 클릭합니다.
 
    ![](assets/first_party_providers.png)
 
@@ -30,4 +30,4 @@ ht-degree: 10%
    ![단계 결과](assets/first_party_providers_edit.png)
 
 1. 원하는 컨테이너를 선택한 다음 필요에 따라 오른쪽 또는 왼쪽 화살표를 클릭하여 **[!UICONTROL Available Containers]** 및 **[!UICONTROL Selected Containers for This Data Provider]** 목록에서 컨테이너를 이동합니다.
-1. 변경한 **[!UICONTROL Save]** 경우 을 클릭합니다.
+1. 변경한 경우 **[!UICONTROL Save]**&#x200B;을 클릭합니다.
