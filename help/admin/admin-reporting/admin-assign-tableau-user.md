@@ -13,11 +13,11 @@ ht-degree: 11%
 ---
 
 
-# Assign a Portal User to a Tableau User {#assign-a-portal-user-to-tableau-user}
+# 타블로 사용자에게 포털 사용자 지정 {#assign-a-portal-user-to-tableau-user}
 
 <!-- t_tabeau.xml -->
 
-포털 [!UICONTROL Reporting] 사용자를 [!DNL Tableau] 사용자로 만들려면 이 페이지를 사용합니다. 이를 통해 사용자는 Audience Manager에서 보고서를 볼 수 [!DNL Tableau] 있습니다.
+[!UICONTROL Reporting] 페이지를 사용하여 포털 사용자를 [!DNL Tableau] 사용자로 만듭니다. 이를 통해 사용자는 Audience Manager에서 [!DNL Tableau] 보고서를 볼 수 있습니다.
 
 1. 클릭 **[!UICONTROL Reporting]** > **[!UICONTROL Assign Portal User to Tableau User]**.
 
