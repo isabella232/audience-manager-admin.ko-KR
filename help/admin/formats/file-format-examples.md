@@ -15,15 +15,15 @@ ht-degree: 13%
 
 # 파일 형식 매크로 예제 {#file-format-macro-examples}
 
-매크로가 아웃바운드 파일 템플릿을 만드는 데 사용되는 방법의 [!DNL FTP] 예입니다.
+매크로를 사용하여 아웃바운드, [!DNL FTP] 파일 템플릿을 만드는 방법의 예.
 
 >[!NOTE]
 >
->표에서 **굵은체** 유형은 관련 출력으로 각 매크로를 식별합니다. 형식 예제의 경우 각 매크로를 시각적으로 구분하는 데 도움이 되도록 &lt; > 기호가 추가되었습니다.
+>테이블에서 **굵은체** 유형은 관련 출력으로 각 매크로를 식별합니다. 형식 예제의 경우 각 매크로를 시각적으로 구분하는 데 도움이 되도록 &lt; > 기호가 추가되었습니다.
 
 ## 일반 매크로 {#common-macros}
 
-이러한 매크로는 모든 형식 필드에서 사용할 수 있습니다. 전체 목록 및 [정의는](../formats/file-formats.md) 파일 형식 매크로를 참조하십시오.
+이러한 매크로는 모든 형식 필드에서 사용할 수 있습니다. 전체 목록 및 정의는 [파일 형식 매크로](../formats/file-formats.md)를 참조하십시오.
 
 <table id="table_B5073597219B470298EE614902DACAE8"> 
  <thead> 
@@ -35,22 +35,22 @@ ht-degree: 13%
  <tbody> 
   <tr> 
    <td colname="col1"> <p> <code>DPID </code> </p> </td> 
-   <td colname="col2"> <p>형식: <code>&lt;SYNC_TYPE&gt;_&lt;ORDER_ID&gt;_ &lt;DPID&gt;_&lt;SYNC_MODE&gt;_&lt;TIMESTAMP&gt;.sync </code> </p> <p>출력: <code>ftp_215_ 888_iter_1449756724.sync </code> </p> </td> 
+   <td colname="col2"> <p>형식: <code>&lt;SYNC_TYPE&gt;_&lt;ORDER_ID&gt;_ &lt;DPID&gt;_&lt;SYNC_MODE&gt;_&lt;TIMESTAMP&gt;.sync </code> </p> <p>출력:<code>ftp_215_ 888_iter_1449756724.sync </code> </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p> <code>MASTER_DPID </code> </p> </td> 
-   <td colname="col2"> <p>형식: <code>&lt;SYNC_TYPE&gt;_&lt;ORDER_ID&gt;_&lt;DPID&gt;_ &lt;MASTER_DPID&gt;_&lt;SYNC_MODE&gt;_&lt;TIMESTAMP&gt;.sync </code> </p> <p>출력: <code>ftp_215_888_ 20915_iter_1449756724.sync </code> </p> </td> 
+   <td colname="col2"> <p>형식: <code>&lt;SYNC_TYPE&gt;_&lt;ORDER_ID&gt;_&lt;DPID&gt;_ &lt;MASTER_DPID&gt;_&lt;SYNC_MODE&gt;_&lt;TIMESTAMP&gt;.sync </code> </p> <p>출력:<code>ftp_215_888_ 20915_iter_1449756724.sync </code> </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p> <code>ORDER_ID </code> </p> </td> 
-   <td colname="col2"> <p>형식: <code>&lt;SYNC_TYPE&gt;_ &lt;ORDER_ID&gt;_&lt;DPID&gt;_&lt;SYNC_MODE&gt;_&lt;TIMESTAMP&gt;.sync </code> </p> <p>출력: <code>ftp_ 215_888_iter_1449756724.sync </code> </p> </td> 
+   <td colname="col2"> <p>형식: <code>&lt;SYNC_TYPE&gt;_ &lt;ORDER_ID&gt;_&lt;DPID&gt;_&lt;SYNC_MODE&gt;_&lt;TIMESTAMP&gt;.sync </code> </p> <p>출력:<code>ftp_ 215_888_iter_1449756724.sync </code> </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p> <code>SYNC_MODE </code> </p> </td> 
    <td colname="col2"> <p>형식: <code>&lt;SYNC_TYPE&gt;_&lt;ORDER_ID&gt;_&lt;DPID&gt;_ &lt;SYNC_MODE&gt;_&lt;TIMESTAMP&gt;.sync </code> </p> <p>출력: 
      <ul id="ul_F63D7B78AF1246639D6ED85C1621B17C"> 
       <li id="li_4D0D7B4D047345FE861FCBA2BD0408ED">전체: <code>ftp_215_888_ full_1449756724.sync </code> </li> 
-      <li id="li_23F4D1F6B2784E599EDA29AA457327E6">증분: <code>ftp_215_888_ iter_1449756724.sync </code> </li> 
+      <li id="li_23F4D1F6B2784E599EDA29AA457327E6">증분:<code>ftp_215_888_ iter_1449756724.sync </code> </li> 
      </ul> </p> </td> 
   </tr> 
   <tr> 
@@ -64,14 +64,14 @@ ht-degree: 13%
   </tr> 
   <tr> 
    <td colname="col1"> <p> <code>TIMESTAMP </code> </p> </td> 
-   <td colname="col2"> <p>형식: <code>&lt;SYNC_TYPE&gt;_&lt;ORDER_ID&gt;_&lt;DPID&gt;_&lt;SYNC_MODE&gt;_ &lt;TIMESTAMP&gt;.sync </code> </p> <p>출력: <code>ftp_215_888_iter_ 1449756724.sync </code> </p> </td> 
+   <td colname="col2"> <p>형식: <code>&lt;SYNC_TYPE&gt;_&lt;ORDER_ID&gt;_&lt;DPID&gt;_&lt;SYNC_MODE&gt;_ &lt;TIMESTAMP&gt;.sync </code> </p> <p>출력:<code>ftp_215_888_iter_ 1449756724.sync </code> </p> </td> 
   </tr> 
  </tbody> 
 </table>
 
 ## 헤더 필드 매크로 {#header-field-macros}
 
-헤더 필드에만 사용되는 매크로입니다. 전체 목록 및 [정의는](../formats/file-formats.md) 파일 형식 매크로를 참조하십시오.
+헤더 필드에만 사용되는 매크로입니다. 전체 목록 및 정의는 [파일 형식 매크로](../formats/file-formats.md)를 참조하십시오.
 
 <table id="table_ABC31B3D660D47969E111EBC734D5BBC"> 
  <thead> 
@@ -83,14 +83,14 @@ ht-degree: 13%
  <tbody> 
   <tr> 
    <td colname="col1"> <p> <code>TAB </code> </p> </td> 
-   <td colname="col2"> <p>형식: <code>&lt;ORDER_ID&gt; &lt;TAB&gt;&lt;SYNC_TYPE&gt; </code> </p> <p>출력: <code>888 full.sync </code> </p> <p>출력에서 인쇄되지 않는 탭 문자는 각 요소를 구분합니다. </p> </td>
+   <td colname="col2"> <p>형식: <code>&lt;ORDER_ID&gt; &lt;TAB&gt;&lt;SYNC_TYPE&gt; </code> </p> <p>출력:<code>888 full.sync </code> </p> <p>출력에서 인쇄되지 않는 탭 문자는 각 요소를 구분합니다. </p> </td>
   </tr>
  </tbody>
 </table>
 
 ## 데이터 행 매크로 {#data-row-macros}
 
-헤더 필드에만 사용되는 매크로입니다. 전체 목록 및 [정의는](../formats/file-formats.md) 파일 형식 매크로를 참조하십시오.
+헤더 필드에만 사용되는 매크로입니다. 전체 목록 및 정의는 [파일 형식 매크로](../formats/file-formats.md)를 참조하십시오.
 
 <table id="table_408C6DD2B9D54550B003EAC93562E64F"> 
  <thead> 
@@ -102,11 +102,11 @@ ht-degree: 13%
  <tbody> 
   <tr> 
    <td colname="col1"> <p> <code>DP_UUID </code> </p> </td> 
-   <td colname="col2"> <p>형식: <code>&lt;DP_UUID&gt;&lt;TAB&gt;&lt;DP_UUID_LIST;separator=TAB&gt; </code> </p> <p>출력: <code>123456 UUID1 UUID2 UUID3 </code> </p> </td> 
+   <td colname="col2"> <p>형식: <code>&lt;DP_UUID&gt;&lt;TAB&gt;&lt;DP_UUID_LIST;separator=TAB&gt; </code> </p> <p>출력:<code>123456 UUID1 UUID2 UUID3 </code> </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p> <code>DP_UUID_LIST </code> </p> </td> 
-   <td colname="col2"> <p>형식: <code>&lt;DP_UUID&gt;&lt;TAB&gt; &lt;DP_UUID_LIST;separator=TAB&gt; </code> </p> <p>출력: <code>123456 UUID1 UUID2 UUID3 </code> </p> </td> 
+   <td colname="col2"> <p>형식: <code>&lt;DP_UUID&gt;&lt;TAB&gt; &lt;DP_UUID_LIST;separator=TAB&gt; </code> </p> <p>출력:<code>123456 UUID1 UUID2 UUID3 </code> </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p> <code>SEGMENT_LIST &amp;&amp; REMOVED_SEGMENT_LIST </code> </p> </td> 
@@ -121,19 +121,19 @@ ht-degree: 13%
   </tr> 
   <tr> 
    <td colname="col1"> <p> <code>SEGMENT_LIST </code> </p> </td> 
-   <td colname="col2"> <p>형식: <code>&lt;DP_UUID&gt; &lt;SEGMENT_LIST&gt;;separator=" "&gt; </code> </p> <p>출력: <code>123456 105955 101183 101180 101179 </code> </p> </td> 
+   <td colname="col2"> <p>형식: <code>&lt;DP_UUID&gt; &lt;SEGMENT_LIST&gt;;separator=" "&gt; </code> </p> <p>출력:<code>123456 105955 101183 101180 101179 </code> </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p> <code>SET_ATTRIBUTES </code> </p> </td> 
-   <td colname="col2"> <p>형식: <code>&lt;PID&gt;&lt;TAB&gt;&lt;UUID&gt;&lt;TAB&gt;&lt;DP_UUID&gt;&lt;TAB&gt; &lt;SET_ATTRIBUTES&gt;&lt;TAB&gt;&lt;OPT_OUT&gt;&lt;TAB&gt;&lt;SEGMENT_LIST:{seg|&lt;seg.type&gt;,&lt;seg.alias&gt;,&lt;OUTPUT_ATTRIBUTE_VALUE&gt;,&lt;seg.lastUpdateTime&gt;&amp;}&gt; </code> </p> <p>출력: <code>1159 00088008579683653741516297509717335000 17t0aj01b120hp 1 0 5,103714,1,1344114661000&amp;5,103713,1,1343250661000 </code> </p> </td>
+   <td colname="col2"> <p>형식: <code>&lt;PID&gt;&lt;TAB&gt;&lt;UUID&gt;&lt;TAB&gt;&lt;DP_UUID&gt;&lt;TAB&gt; &lt;SET_ATTRIBUTES&gt;&lt;TAB&gt;&lt;OPT_OUT&gt;&lt;TAB&gt;&lt;SEGMENT_LIST:{seg|&lt;seg.type&gt;,&lt;seg.alias&gt;,&lt;OUTPUT_ATTRIBUTE_VALUE&gt;,&lt;seg.lastUpdateTime&gt;&amp;}&gt; </code> </p> <p>출력:<code>1159 00088008579683653741516297509717335000 17t0aj01b120hp 1 0 5,103714,1,1344114661000&amp;5,103713,1,1343250661000 </code> </p> </td>
   </tr>
   <tr> 
    <td colname="col1"> <p> <code>TAB </code> </p> </td> 
-   <td colname="col2"> <p>형식: <code>&lt;DP_UUID&gt;&lt;TAB&gt;&lt;DP_UUID_LIST;separator=TAB&gt; </code> </p> <p>출력: <code>123456 UUID1 UUID2 UUID3 </code> </p> <p>출력에서 인쇄되지 않는 탭 문자는 각 요소를 구분합니다. </p> </td> 
+   <td colname="col2"> <p>형식: <code>&lt;DP_UUID&gt;&lt;TAB&gt;&lt;DP_UUID_LIST;separator=TAB&gt; </code> </p> <p>출력:<code>123456 UUID1 UUID2 UUID3 </code> </p> <p>출력에서 인쇄되지 않는 탭 문자는 각 요소를 구분합니다. </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p> <code>TRAIT_LIST </code> </p> </td> 
-   <td colname="col2"> <p>형식: <code>&lt;PID&gt;&lt;TAB&gt;&lt;DP_UUID&gt;&lt;TAB&gt;&lt;SET_ATTRIBUTES&gt;&lt;TAB&gt; &lt;TRAIT_LIST;separator=“|”&gt; </code> </p> <p>출력: <code>1131 12345 1 123|456|789 </code> </p> </td> 
+   <td colname="col2"> <p>형식: <code>&lt;PID&gt;&lt;TAB&gt;&lt;DP_UUID&gt;&lt;TAB&gt;&lt;SET_ATTRIBUTES&gt;&lt;TAB&gt; &lt;TRAIT_LIST;separator=“|”&gt; </code> </p> <p>출력:<code>1131 12345 1 123|456|789 </code> </p> </td> 
   </tr> 
  </tbody> 
 </table>
