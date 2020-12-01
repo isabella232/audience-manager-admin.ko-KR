@@ -15,9 +15,9 @@ ht-degree: 15%
 
 # HTTP 형식 매크로 예제 {#http-format-macro-examples}
 
-일반적으로 사용되는 일부 매크로 [!DNL HTTP] 조합의 예입니다.
+일반적으로 사용되는 [!DNL HTTP] 매크로 조합의 예입니다.
 
-매크로 목록과 그 정의를 보려면 [HTTP](../formats/web-formats.md) 형식 매크로를 참조하십시오.
+매크로 및 그 정의 목록은 [HTTP 형식 매크로](../formats/web-formats.md)를 참조하십시오.
 
 <table id="table_D5FAC5D056ED49D79FA883197EF8F42E"> 
  <thead> 
@@ -138,7 +138,7 @@ ht-degree: 15%
   </tr> 
   <tr> 
    <td colname="col1"> <p> <code>&lt;if(user.segments &amp;&amp; user.removedSegments)&gt;&lt;COMMA&gt;&lt;endif&gt;</code> </p> </td> 
-   <td colname="col2"> <p>필드가 비어 <code>segments</code> 있고 비어 <code>removedSegments</code> 있지 않으면 쉼표를 인쇄합니다. 세그먼트 및 제거된 세그먼트에 대한 목록을 연결할 때 이 조건을 POST 요청에 사용할 수 있습니다. </p> </td> 
+   <td colname="col2"> <p><code>segments</code> 및 <code>removedSegments</code> 필드가 비어 있지 않으면 쉼표를 인쇄합니다. 세그먼트 및 제거된 세그먼트에 대한 목록을 연결할 때 이 조건을 POST 요청에 사용할 수 있습니다. </p> </td> 
   </tr> 
  </tbody> 
 </table>
