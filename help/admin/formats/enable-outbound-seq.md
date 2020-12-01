@@ -1,6 +1,6 @@
 ---
-description: Audience Manager 고객을 위해 바이너리 Hadoop 시퀀스 파일(SEQ) 아웃바운드 일괄 전송을 활성화할 수 있습니다.
-seo-description: Audience Manager 고객을 위해 바이너리 Hadoop 시퀀스 파일(SEQ) 아웃바운드 일괄 전송을 활성화할 수 있습니다.
+description: Audience Manager 고객에 대해 SEQ(이진 Hadoop 시퀀스 파일) 아웃바운드 일괄 전송을 활성화할 수 있습니다.
+seo-description: Audience Manager 고객에 대해 SEQ(이진 Hadoop 시퀀스 파일) 아웃바운드 일괄 전송을 활성화할 수 있습니다.
 seo-title: 아웃바운드에 대해 Hadoop 시퀀스 파일 전송 활성화
 title: 아웃바운드에 대해 Hadoop 시퀀스 파일 전송 활성화
 uuid: 301985b1-5ff6-4112-a353-2e5a97e7eec0
@@ -15,14 +15,14 @@ ht-degree: 18%
 
 # 아웃바운드에 대해 Hadoop 시퀀스 파일 전송 활성화 {#enable-hadoop-sequence-file-transfers-for-outbound}
 
-Audience Manager 고객에 대해 바이너리 [!DNL Hadoop Sequence Files] ([!DNL SEQ]) 아웃바운드 일괄 전송을 활성화할 수 있습니다.
+Audience Manager 고객에 대해 이진 [!DNL Hadoop Sequence Files]([!DNL SEQ]) 아웃바운드 일괄 전송을 활성화할 수 있습니다.
 
 <!-- REMOVED FROM PUBLIC DOCS: The advantages of using [!DNL Hadoop SEQ] files are listed in the [public documentation](https://marketing.adobe.com/resources/help/en_US/aam/outbound-seq-files.html). -->
 
-아웃바운드 [!DNL SEQ] 파일 전송을 활성화하려면
+[!DNL SEQ] 아웃바운드 파일 전송을 활성화하려면:
 
-1. 아웃바운드 파일 전송을 활성화할 회사 및 대상을 [!DNL SEQ] 선택합니다.
-1. 인터페이스에서 아래로 스크롤합니다 **[!UICONTROL Edit Destinations]** **[!UICONTROL Batch Data]**.
-1. 프로토콜 선택: **[!UICONTROL FTP]** 또는 **[!UICONTROL S3]**.
-1. 형식 선택: **[!UICONTROL AAM-Outbound-SEQ (415)]**.
-1. 페이지 하단 **[!UICONTROL Save]** 을 클릭하여 확인합니다. 이제 고객이 Hadoop 시퀀스 파일을 대상으로 보낼 수 있습니다.
+1. [!DNL SEQ] 아웃바운드 파일 전송을 활성화할 회사와 대상을 선택합니다.
+1. **[!UICONTROL Edit Destinations]** 인터페이스에서 **[!UICONTROL Batch Data]** 아래로 스크롤합니다.
+1. 프로토콜 선택:**[!UICONTROL FTP]** 또는 **[!UICONTROL S3]**.
+1. 형식 선택:**[!UICONTROL AAM-Outbound-SEQ (415)]**.
+1. 페이지 하단에서 **[!UICONTROL Save]**&#x200B;을 클릭하여 확인합니다. 이제 고객은 Hadoop 시퀀스 파일을 대상에 보낼 수 있습니다.
