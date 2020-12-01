@@ -19,5 +19,5 @@ ht-degree: 59%
 
 <!-- t_login.xml -->
 
-1. 다음을 검색하여 Audience Manager [!DNL Admin] 도구에 액세스합니다 [!DNL URL]. [https://admin.demdex.com/](https://admin.demdex.com/).
-1. 드롭다운 상자에서 원하는 확인 방법을 선택하고 을 클릭합니다 **[!UICONTROL Verify]**.
+1. 다음 [!DNL URL]으로 이동하여 Audience Manager [!DNL Admin] 도구에 액세스합니다.[https://admin.demdex.com/](https://admin.demdex.com/).
+1. 드롭다운 상자에서 원하는 확인 방법을 선택하고 **[!UICONTROL Verify]**&#x200B;을 클릭합니다.
