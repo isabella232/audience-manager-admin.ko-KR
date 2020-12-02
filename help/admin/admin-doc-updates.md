@@ -5,10 +5,10 @@ seo-title: 설명서 업데이트
 title: 설명서 업데이트
 uuid: 1c02dff5-8e3f-42bf-a50c-03b75e121ac7
 translation-type: tm+mt
-source-git-commit: e60aa0ac341d74454bfe00a4f56add3a9f9e281b
+source-git-commit: 87f89a8a229b221cdab217b8a6b96ccd958078ca
 workflow-type: tm+mt
-source-wordcount: '629'
-ht-degree: 100%
+source-wordcount: '632'
+ht-degree: 99%
 
 ---
 
@@ -17,7 +17,7 @@ ht-degree: 100%
 
 Audience Manager 관리 가이드에 대한 날짜별 모든 업데이트(추가, 삭제 및 수정 사항)입니다.
 
-기능 릴리스, 개선 사항 및 버그 수정에 대한 자세한 내용은 [Experience Cloud 릴리스 정보](https://marketing.adobe.com/resources/help/ko_KR/whatsnew/)를 참조하십시오. 이전 [Experience Cloud](https://marketing.adobe.com/resources/help/ko_KR/whatsnew/c_legacy_releases.html) 공지 사항에 대해서는 이전 릴리스 노트를 참조하십시오. [!DNL Audience Manager documentation changes, see] [설명서 업데이트](https://docs.adobe.com/content/help/ko-KR/audience-manager/user-guide/documentation-updates/docs-2019.html)의 경우.
+기능 릴리스, 개선 사항 및 버그 수정에 대한 자세한 내용은 [Experience Cloud 릴리스 정보](https://marketing.adobe.com/resources/help/ko_KR/whatsnew/)를 참조하십시오. 이전 [Experience Cloud](https://marketing.adobe.com/resources/help/ko_KR/whatsnew/c_legacy_releases.html) 공지 사항에 대해서는 이전 릴리스 노트를 참조하십시오. [!DNL Audience Manager] 설명서 변경 사항은 [설명서 업데이트](https://docs.adobe.com/content/help/ko-KR/audience-manager/user-guide/documentation-updates/docs-2019.html)를 참조하십시오.
 
 ## AAM 2019 설명서 업데이트 {#aam-2019-docs-updates}
 
