@@ -1,12 +1,12 @@
 ---
-product: audience-manager
+product: audience manager
 audience: admin
 user-guide-title: Audience Manager 관리 가이드
 breadcrumb-title: Admin 안내서
 breadcrumb-url: /docs/audience-manager-admin/admin-guide/admin-home.html
 user-guide-description: Audience Manager 관리 도구를 사용하여 회사, 서버, 보고서, 형식 및 사용자를 추가하고 구성할 수 있습니다. 개인 프로필을 보거나 편집할 수도 있습니다.
 translation-type: tm+mt
-source-git-commit: b855eba932bf68c7c71ece8fb3e51f93ed5cb402
+source-git-commit: fb3eb6ee29332a84f2f389d4c6a2b6e2b7d0fced
 workflow-type: tm+mt
 source-wordcount: '181'
 ht-degree: 100%
