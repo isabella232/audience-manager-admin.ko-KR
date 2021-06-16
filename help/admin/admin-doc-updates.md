@@ -4,29 +4,26 @@ seo-description: Audience Manager 관리 가이드에 대한 날짜별 모든 �
 seo-title: 설명서 업데이트
 title: 설명서 업데이트
 uuid: 1c02dff5-8e3f-42bf-a50c-03b75e121ac7
-translation-type: tm+mt
-source-git-commit: 87f89a8a229b221cdab217b8a6b96ccd958078ca
+exl-id: 8221b4df-99c2-47d3-a2ea-186a701a2b20
+source-git-commit: 7767c20bf97ee5c602b60dc6c11a5cd2bf21835d
 workflow-type: tm+mt
 source-wordcount: '632'
 ht-degree: 99%
 
 ---
 
-
 # 설명서 업데이트 {#documentation-updates}
 
 Audience Manager 관리 가이드에 대한 날짜별 모든 업데이트(추가, 삭제 및 수정 사항)입니다.
 
-기능 릴리스, 개선 사항 및 버그 수정에 대한 자세한 내용은 [Experience Cloud 릴리스 정보](https://marketing.adobe.com/resources/help/ko_KR/whatsnew/)를 참조하십시오. 이전 [Experience Cloud](https://marketing.adobe.com/resources/help/ko_KR/whatsnew/c_legacy_releases.html) 공지 사항에 대해서는 이전 릴리스 노트를 참조하십시오. [!DNL Audience Manager] 설명서 변경 사항은 [설명서 업데이트](https://docs.adobe.com/content/help/ko-KR/audience-manager/user-guide/documentation-updates/docs-2019.html)를 참조하십시오.
+기능 릴리스, 개선 사항 및 버그 수정에 대한 자세한 내용은 [Experience Cloud 릴리스 정보](https://marketing.adobe.com/resources/help/ko_KR/whatsnew/)를 참조하십시오. 이전 [Experience Cloud](https://marketing.adobe.com/resources/help/ko_KR/whatsnew/c_legacy_releases.html) 공지 사항에 대해서는 이전 릴리스 노트를 참조하십시오. [!DNL Audience Manager] 설명서 변경 사항에 대해서는 [설명서 업데이트](https://docs.adobe.com/content/help/ko-KR/audience-manager/user-guide/documentation-updates/docs-2019.html)를 참조하십시오.
 
 ## AAM 2019 설명서 업데이트 {#aam-2019-docs-updates}
 
-
 | 주제 | 설명 |
----------|----------|
+|--- |--- |
 | HTTP 형식 매크로 | 새 매크로, `REGION_ID_LIST` 및 세 개의 새 필드,`sda`,`sda` 및 `sda`을 `USER_LIST` 매크로에 추가했습니다. |
 | HTTP 형식 매크로 | 2개의 새 매크로(`ECID` 및 `MCID`)를 추가했습니다. |
-
 
 ## AAM 2018 설명서 업데이트 {#aam-2018-docs-updates}
 
