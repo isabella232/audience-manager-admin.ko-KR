@@ -5,9 +5,9 @@ seo-title: API Requirements and Recommendations
 title: API 요구 사항 및 권장 사항
 uuid: eba9cf92-f0c8-4394-8532-0de9a2e7b103
 exl-id: 24f90732-31a6-436d-862b-e6871d279c7a
-source-git-commit: 79415eba732c2a6d50f04124774664f788ccc78c
+source-git-commit: c7c5da62b32f6a56152e1c09a965facfc601cade
 workflow-type: tm+mt
-source-wordcount: '340'
+source-wordcount: '342'
 ht-degree: 2%
 
 ---
@@ -36,4 +36,4 @@ Audience Manager [!DNL API]에서 작업할 별도의 기술 사용자 계정을
 * [!DNL API]을 호출하는 서비스를 식별합니다(예: [!DNL API]을 사용하거나 벌크 변경을 수행하는 클라이언트 앱의 호출).
 * [!DNL API]에 대한 끊김 없는 액세스를 제공합니다. 특정 직원에 연결된 계정은 회사를 떠날 때 삭제될 수 있습니다. 이렇게 하면 고객이 사용 가능한 [!DNL API] 코드를 사용하여 작업할 수 없습니다. 특정 직원에 연결되지 않은 일반 계정은 이 문제를 방지하는 데 도움이 됩니다.
 
-이러한 유형의 계정에 대한 예나 사용 사례로서, 고객이 [벌크 관리 도구](https://experienceleague.adobe.com/docs/audience-manager/user-guide/reference/bult-management-tools/bulk-management-intro.html)를 사용하여 한 번에 많은 세그먼트를 변경하려고 한다고 가정해 보겠습니다. 이렇게 하려면 [!DNL API] 액세스가 필요합니다. 특정 사용자에 대한 권한을 추가하는 대신, 적절한 자격 증명, 키 및 암호가 있는 특정하지 않은 [!DNL API] 사용자 계정을 만들어 [!DNL API] 호출을 수행합니다. 이 기능은 클라이언트가 [!DNL Audience Manager] [!DNL API]s를 사용하는 자체 애플리케이션을 개발하는 경우에도 유용합니다.
+이러한 유형의 계정에 대한 예나 사용 사례로서, 고객이 [벌크 관리 도구](https://experienceleague.adobe.com/docs/audience-manager/user-guide/reference/bulk-management-tools/bulk-management-intro.html?lang=en)를 사용하여 한 번에 많은 세그먼트를 변경하려고 한다고 가정해 보겠습니다. 이렇게 하려면 [!DNL API] 액세스가 필요합니다. 특정 사용자에 대한 권한을 추가하는 대신, 적절한 자격 증명, 키 및 암호가 있는 특정하지 않은 [!DNL API] 사용자 계정을 만들어 [!DNL API] 호출을 수행합니다. 이 기능은 클라이언트가 [!DNL Audience Manager] [!DNL API]s를 사용하는 자체 애플리케이션을 개발하는 경우에도 유용합니다.
