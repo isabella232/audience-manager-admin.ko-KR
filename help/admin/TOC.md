@@ -4,10 +4,10 @@ audience: admin
 user-guide-title: Audience Manager 관리 가이드
 breadcrumb-title: Admin 안내서
 user-guide-description: Audience Manager 관리 도구를 사용하여 회사, 서버, 보고서, 형식 및 사용자를 추가하고 구성할 수 있습니다. 개인 프로필을 보거나 편집할 수도 있습니다.
-source-git-commit: 5074b73a4ffa9be305cfd753cb4a1efdfeeb9be3
+source-git-commit: 25a00b3e877eab3136e70e924d87d011f44ba52c
 workflow-type: tm+mt
-source-wordcount: '181'
-ht-degree: 100%
+source-wordcount: '187'
+ht-degree: 96%
 
 ---
 
@@ -29,6 +29,7 @@ ht-degree: 100%
    + [회사 제한 관리](companies/admin-company-limits.md)
    + [회사 사용자 관리](companies/admin-manage-company-users.md)
    + [활성 사용자로만 아웃바운드 데이터 필터링](companies/outbound-active-user-filter.md)
+   + [제2자 데이터에 대한 온보딩 액세스 관리](companies/admin-manage-onboarding-access.md)
 + 서버{#servers}
    + [서버 개요](admin-servers/admin-servers.md)
    + [FTP 서버 만들기 또는 편집](admin-servers/create-ftp-server.md)
