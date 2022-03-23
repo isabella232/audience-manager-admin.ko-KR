@@ -1,14 +1,20 @@
 ---
 description: 다른 파트너 또는 고객이 소유한 타겟 데이터 소스에 파일 및 데이터 온보딩이 우발되지 않도록 하기 위해 Audience Manager은 파트너 ID(PID)와 다른 파트너가 소유한 데이터 소스 간에 매핑 요구 사항을 추가했습니다.
 title: 제2자 데이터에 대한 온보딩 액세스 관리
-source-git-commit: 6c88979f876909bc32b5238605cb4a352e327a00
+exl-id: 03bec978-dd31-41cc-a3aa-d67fbb98963c
+source-git-commit: cc04863272005964cfbf1bb2319cc0dd86863680
 workflow-type: tm+mt
-source-wordcount: '217'
+source-wordcount: '283'
 ht-degree: 0%
 
 ---
 
 # 제2자 데이터에 대한 온보딩 액세스 관리 {#manage-onboarding-access-for-second-party-data}
+
+>[!IMPORTANT]
+>
+> 이 페이지의 대상은 Adobe 내부 직원입니다. 이 페이지에 설명된 대로 제2자 데이터 소스 매핑을 요청하는 Audience Manager 고객인 경우 고객 지원 또는 기술 계정 관리자에게 문의하십시오.
+> 기존 데이터 공유 관계에 대한 매핑을 요청하는 데 필요하지 않습니다. PID에 속하는 대상 데이터 소스에 데이터를 온보딩할 때도 매핑이 필요하지 않습니다.
 
 다른 파트너가 소유한 대상 데이터 소스에 파일 및 데이터 온보딩을 우발적으로 방지하기 위해 Audience Manager은 파트너 ID(PID)와 다른 파트너가 소유한 DPID(데이터 소스) 간에 매핑 요구 사항을 추가했습니다. 에서 PID 및 DPID에 대해 자세히 알아보십시오 [Audience Manager ID 색인](https://experienceleague.adobe.com/docs/audience-manager/user-guide/reference/ids-in-aam.html).
 
