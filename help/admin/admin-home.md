@@ -5,16 +5,20 @@ seo-title: Audience Manager Admin Home
 title: Audience Manager 관리자 홈
 uuid: 4534b622-4c8d-4c42-8019-1614faaba9d6
 exl-id: 27316802-9c98-41f5-af3e-edc11e572e29
-source-git-commit: 79415eba732c2a6d50f04124774664f788ccc78c
+source-git-commit: e12731066834df18b44e6737fe8c1264d316f7fd
 workflow-type: tm+mt
-source-wordcount: '182'
-ht-degree: 87%
+source-wordcount: '212'
+ht-degree: 75%
 
 ---
 
 # Audience Manager 관리자 홈 {#audience-manager-admin-home}
 
 Audience Manager 관리 도구를 사용하여 회사, 서버, 보고서, 형식 및 사용자를 추가하고 구성할 수 있습니다. 개인 프로필을 보거나 편집할 수도 있습니다.
+
+>[!IMPORTANT]
+>
+> 이 설명서 저장소의 대상은 Adobe 내부 직원입니다. Audience Manager 고객인 경우 [Audience Manager 안내서 개요](https://experienceleague.adobe.com/docs/audience-manager/user-guide/aam-home.html).
 
 <table id="table_882B0982144442F79328A4FA45BD5C7E" frame="none"> 
  <tbody> 
