@@ -1,25 +1,24 @@
 ---
-description: '고객 문제를 디버깅할 때 가장 먼저 감사 로깅을 사용하십시오. '
-seo-description: '고객 문제를 디버깅할 때 가장 먼저 감사 로깅을 사용하십시오. '
-seo-title: 감사 로깅
+description: 고객 문제를 디버깅할 때 먼저 감사 로깅을 사용하십시오.
+seo-description: Use Audit Logging as a first place to go when debugging customer issues.
+seo-title: Audit Logging
 title: 감사 로깅
 uuid: null
-translation-type: tm+mt
-source-git-commit: 53bf192d17e107f5f696712e578921abaa52b9ab
+exl-id: ff68f90f-b521-4560-9bf6-a7a6a588adf9
+source-git-commit: f5d74995f0664cf63e68b46f1f3c608f34df0e80
 workflow-type: tm+mt
-source-wordcount: '66'
-ht-degree: 9%
+source-wordcount: '51'
+ht-degree: 7%
 
 ---
 
-
 # 감사 로깅 {#audit-logging}
 
-고객 문제를 디버깅할 때 맨 먼저 이동하려면 [!UICONTROL  Audit Logging]을 사용합니다.
+사용 [!UICONTROL  Audit Logging] 고객 문제를 디버깅할 때 가장 먼저 이동해야 하는 위치입니다.
 
 >[!NOTE]
 >
->[!UICONTROL Audit Logging] 기능 및 문서는 현재 개발 중이며 변경될 수 있습니다. [!DNL JIRA]([!DNL UI] 팀)에서 발생하는 모든 문제를 기록하십시오.
+>다음 [!UICONTROL Audit Logging] 기능 및 설명서는 현재 개발 중이고 변경될 수 있습니다. 에서 발생하는 모든 문제를 기록하십시오. [!DNL JIRA] ([!DNL UI] 팀).
 
 ![감사 로깅 보기](assets/audit-logging-img.png)
 

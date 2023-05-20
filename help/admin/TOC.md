@@ -29,7 +29,7 @@ ht-degree: 96%
    + [회사 제한 관리](companies/admin-company-limits.md)
    + [회사 사용자 관리](companies/admin-manage-company-users.md)
    + [활성 사용자로만 아웃바운드 데이터 필터링](companies/outbound-active-user-filter.md)
-   + [제2자 데이터에 대한 온보딩 액세스 관리](companies/admin-manage-onboarding-access.md)
+   + [타사 데이터에 대한 온보딩 액세스 관리](companies/admin-manage-onboarding-access.md)
 + 서버{#servers}
    + [서버 개요](admin-servers/admin-servers.md)
    + [FTP 서버 만들기 또는 편집](admin-servers/create-ftp-server.md)

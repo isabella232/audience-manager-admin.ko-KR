@@ -1,20 +1,19 @@
 ---
-description: 형식은 매크로를 사용하여 대상으로 전송된 데이터의 내용을 구성하는 저장된 템플릿(또는 파일)입니다. 형식 유형에는 HTTP 형식 및 파일 형식이 포함됩니다. HTTP 형식은 POST 또는 GET 메서드를 사용하여 JSON 개체에 데이터를 전송합니다. 파일 포맷은 FTP를 통해 파일로 데이터를 전송합니다. 각 형식에서 사용하는 매크로는 파일 이름을 설정하고, 파일 헤더를 정의하며, 데이터 파일의 내용을 구성할 수 있습니다. 고객 대상을 설정할 때 관리자 UI에서 형식을 만들고 저장하고 다시 사용할 수 있습니다.
-seo-description: 형식은 매크로를 사용하여 대상으로 전송된 데이터의 내용을 구성하는 저장된 템플릿(또는 파일)입니다. 형식 유형에는 HTTP 형식 및 파일 형식이 포함됩니다. HTTP 형식은 POST 또는 GET 메서드를 사용하여 JSON 개체에 데이터를 전송합니다. 파일 포맷은 FTP를 통해 파일로 데이터를 전송합니다. 각 형식에서 사용하는 매크로는 파일 이름을 설정하고, 파일 헤더를 정의하며, 데이터 파일의 내용을 구성할 수 있습니다. 고객 대상을 설정할 때 관리자 UI에서 형식을 만들고 저장하고 다시 사용할 수 있습니다.
-seo-title: 포맷 개요
+description: 형식은 매크로를 사용하여 대상에 전송된 데이터의 내용을 구성하는 저장된 템플릿(또는 파일)입니다. 형식 유형에는 HTTP 형식과 파일 형식이 포함됩니다. HTTP 형식은 POST 또는 GET 메서드를 사용하여 JSON 개체에 데이터를 보냅니다. 파일 형식은 FTP를 통해 데이터를 파일로 전송합니다. 각 형식에서 사용하는 매크로를 사용하면 파일 이름을 설정하고, 파일 헤더를 정의하고, 데이터 파일의 내용을 구성할 수 있습니다. 관리자 UI에서 고객을 위한 대상을 설정할 때 형식을 만들고, 저장하고, 다시 사용할 수 있습니다.
+seo-description: A format is a saved template (or file) that uses macros to organize the contents of data sent to a destination. Format types include HTTP formats and file formats. HTTP formats send data in a JSON object with a POST or GET method. File formats send data in a file by FTP. The macros used by each format let you set file names, define file headers, and organize the contents of a data file. In the Admin UI, you can create, save, and re-use formats when setting up destinations for customers..
+seo-title: Formats Overview
 title: 포맷 개요
 uuid: ec80ac49-6ec5-4cd4-a881-a05240675c00
-translation-type: tm+mt
-source-git-commit: 190ba5c1215782e46c8e544c10679d451fbed134
+exl-id: f40a1efb-df27-483f-999a-ef19c8eead87
+source-git-commit: f5d74995f0664cf63e68b46f1f3c608f34df0e80
 workflow-type: tm+mt
-source-wordcount: '272'
+source-wordcount: '179'
 ht-degree: 2%
 
 ---
 
-
 # 포맷 개요 {#formats-overview}
 
-형식은 매크로를 사용하여 대상으로 전송된 데이터의 내용을 구성하는 저장된 템플릿(또는 파일)입니다. 형식 유형에는 [!DNL HTTP] 형식 및 파일 형식이 포함됩니다. [!DNL HTTP] 형식 [!DNL JSON] 은  [!DNL POST] 또는  [!DNL GET] 메서드를 사용하여 개체에 데이터를 보냅니다. 파일 형식은 [!DNL FTP]에 의해 파일에 데이터를 보냅니다. 각 형식에서 사용하는 매크로는 파일 이름을 설정하고, 파일 헤더를 정의하며, 데이터 파일의 내용을 구성할 수 있습니다. 관리 [!DNL UI]에서 고객의 대상을 설정할 때 형식을 만들고 저장하고 다시 사용할 수 있습니다.
+형식은 매크로를 사용하여 대상에 전송된 데이터의 내용을 구성하는 저장된 템플릿(또는 파일)입니다. 형식 유형은 다음과 같습니다 [!DNL HTTP] 형식 및 파일 형식 [!DNL HTTP] 형식으로 데이터 보내기 [!DNL JSON] 이 있는 개체 [!DNL POST] 또는 [!DNL GET] 메서드를 사용합니다. 파일 형식은 다음 방법으로 데이터를 파일로 전송합니다. [!DNL FTP]. 각 형식에서 사용하는 매크로를 사용하면 파일 이름을 설정하고, 파일 헤더를 정의하고, 데이터 파일의 내용을 구성할 수 있습니다. 관리자 [!DNL UI], 고객을 위한 대상을 설정할 때 형식을 만들고, 저장하고, 다시 사용할 수 있습니다.
 
 ![](assets/formats.png)

@@ -1,28 +1,27 @@
 ---
 description: 일반적으로 사용되는 일부 HTTP 매크로 조합의 예입니다.
-seo-description: 일반적으로 사용되는 일부 HTTP 매크로 조합의 예입니다.
-seo-title: HTTP 형식 매크로 예제
+seo-description: Examples of some commonly used HTTP macro combinations.
+seo-title: HTTP Format Macro Examples
 title: HTTP 형식 매크로 예제
 uuid: a81a2e2a-de7e-4b6a-8771-fcfa0dc74570
-translation-type: tm+mt
-source-git-commit: 4c6d1752ff10d2d3d12cab88e823f25f5ef4fcd0
+exl-id: 1f8ccbf3-241d-4bd9-8c35-cf68b12d2713
+source-git-commit: f5d74995f0664cf63e68b46f1f3c608f34df0e80
 workflow-type: tm+mt
-source-wordcount: '78'
-ht-degree: 15%
+source-wordcount: '66'
+ht-degree: 12%
 
 ---
 
-
 # HTTP 형식 매크로 예제 {#http-format-macro-examples}
 
-일반적으로 사용되는 [!DNL HTTP] 매크로 조합의 예입니다.
+일반적으로 사용되는 몇 가지 예시 [!DNL HTTP] 매크로 조합.
 
-매크로 및 그 정의 목록은 [HTTP 형식 매크로](../formats/web-formats.md)를 참조하십시오.
+다음을 참조하십시오. [HTTP 형식 매크로](../formats/web-formats.md) 매크로 및 매크로 정의 목록입니다.
 
 <table id="table_D5FAC5D056ED49D79FA883197EF8F42E"> 
  <thead> 
   <tr> 
-   <th colname="col1" class="entry"> 매크로 예 </th> 
+   <th colname="col1" class="entry"> 매크로 예제 </th> 
    <th colname="col2" class="entry"> 출력 형식 </th> 
   </tr> 
  </thead>
@@ -138,7 +137,7 @@ ht-degree: 15%
   </tr> 
   <tr> 
    <td colname="col1"> <p> <code>&lt;if(user.segments &amp;&amp; user.removedSegments)&gt;&lt;COMMA&gt;&lt;endif&gt;</code> </p> </td> 
-   <td colname="col2"> <p><code>segments</code> 및 <code>removedSegments</code> 필드가 비어 있지 않으면 쉼표를 인쇄합니다. 세그먼트 및 제거된 세그먼트에 대한 목록을 연결할 때 이 조건을 POST 요청에 사용할 수 있습니다. </p> </td> 
+   <td colname="col2"> <p>필드에 쉼표를 인쇄합니다. <code>segments</code> 및 <code>removedSegments</code> 비어 있지 않습니다. 이 조건부 값은 세그먼트 및 제거된 세그먼트에 대한 목록을 연결할 때 POST 요청에 사용할 수 있습니다. </p> </td> 
   </tr> 
  </tbody> 
 </table>
